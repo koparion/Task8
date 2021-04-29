@@ -103,7 +103,6 @@ console.log(primes);
 function LoopNumbers(num)
 {
     let i = 0;
-    let n = 0;
     while (i < num )
     {
         i++;
